@@ -1,0 +1,7 @@
+Clientes.txt filter=lfs diff=lfs merge=lfs -text
+Produtos.txt filter=lfs diff=lfs merge=lfs -text
+Vendas_1M.txt filter=lfs diff=lfs merge=lfs -text
+Vendas_3M.txt filter=lfs diff=lfs merge=lfs -text
+Vendas_5M.txt filter=lfs diff=lfs merge=lfs -text
+projC filter=lfs diff=lfs merge=lfs -text
+projJava filter=lfs diff=lfs merge=lfs -text

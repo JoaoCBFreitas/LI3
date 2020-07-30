@@ -1,0 +1,39 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/../bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'projJava 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'projJava 1.0-SNAPSHOT API'
+grupo24.projJava
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/src/main/java = 1590883273000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/constant-values.html = 1590891316000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/overview-tree.html = 1590891317000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/index.html = 1590891317000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/allclasses-noframe.html = 1590891317000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/serialized-form.html = 1590891316000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/index-all.html = 1590891317000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/deprecated-list.html = 1590891317000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/script.js = 1590891317000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/stylesheet.css = 1590883854000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/help-doc.html = 1590891317000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/allclasses-frame.html = 1590891317000
+/Users/alexandre/Downloads/grupo24-master 2/grupo24/projJava/target/site/apidocs/package-list = 1590891316000
